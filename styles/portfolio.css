@@ -116,6 +116,10 @@ p {
   max-height: 140px;
 }
 
+.logo-small {
+  max-height: 40px;
+}
+
 nav {
   padding: 20px O;
   margin-top: 25px;
