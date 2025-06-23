@@ -214,6 +214,6 @@ footer .email-link:hover {
   text-align: center;
   color: var(--branding-color);
   text-align: center;
-  font-size: 150px;
-  padding: 200px;
+  font-size: 50px;
+  padding-top: 100px;
 }
