@@ -1,6 +1,6 @@
 :root {
-  --branding-color: #6c63ff;
-  --secondary-color: #f9f7fe;
+  --branding-color: #ff9f63;
+  --secondary-color: #27bc6d;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -208,4 +208,12 @@ footer .email-link:hover {
     text-align: center;
     padding: 0;
   }
+}
+
+.wip {
+  text-align: center;
+  color: var(--branding-color);
+  text-align: center;
+  font-size: 150px;
+  padding: 200px;
 }
