@@ -42,6 +42,11 @@ p {
   line-height: 30px;
 }
 
+.about-proj {
+  margin-top: -20px;
+  margin-bottom: 10px;
+}
+
 .contact-links a {
   color: var(--light-contrast);
 }
@@ -78,7 +83,7 @@ p {
 
 .content h1 {
   font-size: 64px;
-  line-height: 80px;
+  line-height: 60px;
 }
 
 .content h2 {
@@ -163,9 +168,18 @@ nav li.active a {
   border-radius: 10px;
 }
 
+.about-img {
+  padding-top: 60px;
+}
+
 .btn-branding:hover {
   background-color: var(--dark-contrast);
   color: white;
+}
+
+.about-desc p {
+  font-size: 15px;
+  line-height: 1;
 }
 
 footer {
